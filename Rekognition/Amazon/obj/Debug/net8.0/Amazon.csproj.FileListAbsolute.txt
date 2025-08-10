@@ -1,0 +1,12 @@
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\bin\Debug\net8.0\Amazon.deps.json
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\bin\Debug\net8.0\Amazon.dll
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\bin\Debug\net8.0\Amazon.pdb
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.csproj.AssemblyReference.cache
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfoInputs.cache
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfo.cs
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.csproj.CoreCompileInputs.cache
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.dll
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\refint\Amazon.dll
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\Amazon.pdb
+D:\Development\JLTech\Code\Rekognition\Pre\RekognitionPre\Amazon\obj\Debug\net8.0\ref\Amazon.dll

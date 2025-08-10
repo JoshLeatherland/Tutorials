@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lv/ol3AulYlq18gL3ZoBQxsd+9nwCAB7PHrNgh82skmoe0Lz3qh3nZhvyEudyGLaFZyeoGJDT/mJ6gPn6O+8kw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\JLTech\\Code\\Rekognition\\Pre\\RekognitionPre\\Amazon\\Amazon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\awssdk.core\\4.0.0.21\\awssdk.core.4.0.0.21.nupkg.sha512",
+    "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\awssdk.rekognition\\4.0.1.12\\awssdk.rekognition.4.0.1.12.nupkg.sha512",
+    "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

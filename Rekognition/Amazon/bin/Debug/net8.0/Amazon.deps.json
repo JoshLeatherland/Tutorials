@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Amazon/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Rekognition": "4.0.1.12",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.8"
+        },
+        "runtime": {
+          "Amazon.dll": {}
+        }
+      },
+      "AWSSDK.Core/4.0.0.21": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.21"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/4.0.1.12": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.0.21"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.1.12"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.8": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amazon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/4.0.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oVLsPfJSyhHZBTRFvKYbDl80Pkgoc6os8Exx8lVAW0qKz7ZY0lK2Fl9YKuuLQ183QjJqVm7+IsYwHb4gGIG4tg==",
+      "path": "awssdk.core/4.0.0.21",
+      "hashPath": "awssdk.core.4.0.0.21.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/4.0.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UGT8e3k2ox2GLH+YuWkgE/eFYkmVb63EcglMIiQcWjiVOZP8zTjnJlBbGqorHZMopKmfBW3N6dWyNk3wPRa2Qw==",
+      "path": "awssdk.rekognition/4.0.1.12",
+      "hashPath": "awssdk.rekognition.4.0.1.12.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xY3lTjj4+ZYmiKIkyWitddrp1uL5uYiweQjqo4BKBw01ZC4HhcfgLghDpPZcUlppgWAFqFy9SgkiYWOMx365pw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+    }
+  }
+}
